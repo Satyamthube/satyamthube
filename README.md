@@ -1,59 +1,60 @@
 <h1 align="center">Hi 👋, I'm Satyam Thube</h1>
-<h3 align="center">National Baseball & Cricket Player | B.Tech Biotechnology Student | Aspiring Developer</h3>
+<h3 align="center">B.Tech Student in Artificial Intelligence & Data Science | National Baseball & Cricket Player</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Baseball+Player;Cricket+Player;Biotechnology+Student;Learning+AI+%26+Data+Science;Future+Innovator&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Student;National+Athlete;Python+Developer;Future+AI+Engineer;Sports+Analytics+Enthusiast&center=true&width=600&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Biotechnology Student  
+- 🎓 B.Tech Student in Artificial Intelligence & Data Science  
 - 🏅 National Player in Baseball & Cricket  
 - 🥇 Gold Medalist  
-- 💻 Passionate about Technology, AI & Data Science  
-- 📚 Currently learning Python, Git, GitHub & Machine Learning  
-- 🏋️ Focused on Fitness, Discipline & Self Growth  
-- 🌱 Building projects related to Sports Analytics & Biotechnology  
+- 💻 Passionate about AI, Data Science & Technology  
+- 📚 Currently learning Python, Machine Learning & GitHub  
+- 📊 Interested in Sports Analytics & AI Applications  
+- 🏋️ Fitness & Discipline Focused  
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### Programming & Tech
+### Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,vscode,mysql" />
 </p>
 
 ### Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=javascript,tensorflow" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### ⚾ Baseball Performance Analysis
-- Performance tracking and analytics for baseball players  
-- Stats visualization and improvement analysis  
+### ⚾ AI-Based Sports Performance Analysis
+- Player performance tracking using AI & statistics  
+- Data visualization for improvement analysis  
 
-### 🏋️ Workout & Fitness Tracker
-- Daily workout logging system  
-- Fitness progress tracking  
+### 🏋️ Smart Workout Tracker
+- Fitness tracking system with progress analysis  
+- Workout logging and performance monitoring  
 
-### 🧬 Biotechnology Research Notes
-- Organized academic notes and resources  
-- Biotechnology learning repository  
+### 🤖 Machine Learning Projects
+- Beginner ML models  
+- Data analysis & prediction systems  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamthube&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamthube&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -62,19 +63,19 @@
 
 - 🥇 Gold Medalist  
 - 🇮🇳 National Level Athlete  
-- 📚 Consistently improving technical skills  
-- 💪 Dedicated to personal and professional growth  
+- 💻 AI & Data Science Enthusiast  
+- 📚 Consistent Learner & Developer  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/satyam-thube-5a9b55401?/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:satyamthube39@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -89,9 +90,9 @@
 
 ---
 
-## 💡 Quote I Believe In
+## 💡 Motto
 
-> “Discipline beats motivation. Consistency creates success.”
+> “Discipline, consistency, and hard work create champions.”
 
 ---
 
