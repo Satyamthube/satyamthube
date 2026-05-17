@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Student in Artificial Intelligence & Data Science  
 - 🏅 National Player in Baseball & Cricket  
-- 🥇 Gold Medalist  
+- 🥇 Gold Medalist in National Softball Tournament
 - 💻 Passionate about AI, Data Science & Technology  
 - 📚 Currently learning Python, Machine Learning & GitHub  
 - 📊 Interested in Sports Analytics & AI Applications  
