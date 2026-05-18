@@ -78,12 +78,11 @@
 <a href="mailto:satyamthube39@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-</p>
 
 <a href="https://instagram.com/_.satyaa13._" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
----
+</p>
 
 ## 📊 Contribution Graph
 
