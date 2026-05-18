@@ -80,6 +80,9 @@
 </a>
 </p>
 
+[![Instagram]
+(https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+(https://instagram.com/_.satyaa13._)
 ---
 
 ## 📊 Contribution Graph
